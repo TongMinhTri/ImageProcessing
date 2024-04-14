@@ -20,10 +20,8 @@ def display_image(image, title="Image"):
 def grayscale_image(image):
     # Get the image shape
     rows, cols, channels = image.shape
-
     # Create an empty array for the grayscale image with the same shape
     img_gray = np.zeros((rows, cols), dtype=np.uint8)  # Adjust dtype if needed
-
     # Iterate through each pixel and convert to grayscale
     for row in range(rows):
         for col in range(cols):
