@@ -1,4 +1,4 @@
-# ComputerVision - Tong Minh Tri - 21020249
+# Image Processing - Tong Minh Tri - 21020249
  HW1:
  - The goals of this homework are:
 1. Learn basic Python, the structure of Python programs, and common libraries such as Numpy,
